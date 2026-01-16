@@ -71,7 +71,7 @@ rm -rf node_modules && bun add pg@8.16.3
 Run the test script again:
 
 ```bash
-bun run test.ts
+bun src/test.ts
 ```
 
 **Result:** Works as expected ✅
